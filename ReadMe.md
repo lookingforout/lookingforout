@@ -1,5 +1,5 @@
-# 💫 About Me:
-📌Doing art mainly<br>💭Learning to program better<br>💢Currently working on a small console game <br>🖤Fun fact: A fan of horror books<br>
+# 📌 About Me:
+⛓Doing art mainly<br>💭Learning to program better<br>💢Currently working on a small console game <br>🖤Fun fact: A fan of horror books<br>
 
 
 ## 🌐 Socials:
@@ -7,16 +7,10 @@
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lookingforout&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=lookingforout&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lookingforout&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lookingforout&icon=0&color=4)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/snepr) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/lookingforout) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
