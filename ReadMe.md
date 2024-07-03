@@ -1,9 +1,5 @@
 # 📌 About Me:
-⛓Doing art mainly<br>💭Learning to program better<br>💢Slowly working on a small console game <br>💉Fun fact: A fan of horror books<br>
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lookingforout#9645) 
+⛓Doing art mainly<br>💭Learning to program better<br>💢Slowly working on a small console game <br>💉Fun fact: A fan of horror books<br> 
 
 # 💻 Tech Stack:
 <div align="left">  
