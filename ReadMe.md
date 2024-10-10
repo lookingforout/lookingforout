@@ -1,5 +1,5 @@
 # 📌 About Me:
-⛓Doing art mainly<br>💭Learning to program better<br>💢Slowly working on a small console game <br>💉Fun fact: A fan of horror books<br> 
+⛓Doing art mainly<br>💭Learning to program better<br>💢Working on an original story <br>💉Fun fact: A fan of horror books<br> 
 
 # 💻 Tech Stack:
 <div align="left">  
